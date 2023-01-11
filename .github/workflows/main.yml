@@ -34,4 +34,4 @@ jobs:
           fields: repo,commit,message,author # default: repo,commit
         env:
           # Need dedicated webhook URL that receives and post to a specific channel
-          DISCORD_WEBHOOK: https://discord.com/api/webhooks/1062633863718903888/rhRn1nsy4zcFANQ8g5fgE_NfHXSMfQ3VPcae7D4hZeBDm5f26IBrbmj50y7nrelszuZ3
+          DISCORD_WEBHOOK: https://discord.com/api/webhooks/1062635166989815808/_rdRH4Pz1H3dsihgYz27N_bk_PrJuWxyNcFy5LwucLNqDmGKKzI0c-BA3tW-xRUT8Nkg
